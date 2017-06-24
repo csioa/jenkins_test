@@ -9,4 +9,4 @@ def main():
     print_message("Babis")
 
 if __name__ == "__main__":
-    main()
+    main
