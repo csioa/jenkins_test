@@ -8,5 +8,5 @@ def main():
     message = "Welcome to this test"
     print_message("Babis")
 
-if __name__ == "main()":
+if __name__ == "__main__":
     main()
