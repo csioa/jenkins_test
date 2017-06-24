@@ -1,6 +1,5 @@
 
 def print_message(name):
-    print "In staging mode"
     print "Hello, {}\n{}".format(name, message)
 
 
